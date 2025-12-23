@@ -166,3 +166,4 @@ int equa_sbox_bias_log[4][14] = {
 
 
 #endif
+
